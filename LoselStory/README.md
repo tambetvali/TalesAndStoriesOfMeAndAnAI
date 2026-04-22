@@ -25,6 +25,8 @@ A portrait of a man who could not imagine a world without winners and losers —
 
 # **Part I — The Prosperity That Belonged to Everyone**
 
+![A bright, bustling city at sunrise where ordinary people celebrate a shared innovation, symbolizing collective prosperity.](IMG/Image1.jpg)
+
 The city had always been loud — not with chaos, but with the hum of people who believed tomorrow might be better than today. Yet nothing in its long memory compared to the morning when the innovation was unveiled. No one person owned it, no single genius claimed it, no heroic statue was erected to immortalize its inventor. It was a discovery that seemed to rise from the collective mind of the nation, as if the soil itself had whispered the idea upward.
 
 It spread quickly.  
@@ -46,6 +48,8 @@ He watched the crowds with a tightening jaw.
 He saw joy and interpreted it as arrogance.  
 He saw relief and interpreted it as weakness.  
 He saw cooperation and interpreted it as a conspiracy to erase the old order he understood.
+
+![Losel standing in the shadows, watching a joyful crowd celebrate prosperity while he remains tense and suspicious.](IMG/Image2.jpg)
 
 To Losel, life was a battlefield disguised as a marketplace. Every person was always fighting — for food, for sleep, for women, for money, for power, for the appearance of goodness. Prosperity, in his mind, could never be shared; it could only be won or stolen. So if everyone was rising, someone must be lying. Someone must be hiding the real struggle.
 
@@ -72,6 +76,8 @@ It dulled the *meaning* of the senses.
 A man could win a fortune and feel nothing.  
 A woman could lose her home and feel nothing.  
 Victory and defeat became identical shadows.
+
+![A glowing vial of the mystical narcotic called The Quiet, surrounded by blurred faces and fading emotions.](IMG/Image3.jpg)
 
 Losel adored it.
 
@@ -117,6 +123,8 @@ And so, while the nation continued to rise, Losel drifted downward — not drama
 The Quiet had promised him control.  
 Instead, it began to control him.
 
+![Losel on a street corner passionately preaching slogans while passersby ignore him in a prosperous city.](IMG/Image4.jpg)
+
 And the first cracks in his reputation — once so carefully polished — began to show.
 
 # **Part III — The Collapse of Reputation**
@@ -136,6 +144,8 @@ He felt it first as a whisper:
 a merchant who no longer needed his services,  
 a scholar who found her own documents,  
 a craftsman who now kept perfect records thanks to the new system.
+
+![Losel standing in a marketplace as shopkeepers quietly close their doors, symbolizing his fading reputation.](IMG/Image5.jpg)
 
 Then the whisper became a murmur.  
 Then a silence.
@@ -221,6 +231,8 @@ The city behind him thrived — not out of cruelty, but because it had built som
 
 Losel, meanwhile, became a ghost of the old world — a man who could not imagine life without winners and losers, and so he became the only loser left in a city that had stopped playing the game.
 
+![Losel crouched beside garbage cans in a dim alley, searching through trash with a cracked wooden box beside him.](IMG/Image6.jpg)
+
 He slumped beside the garbage cans, the empty wooden box resting on his lap. The Quiet pulsed through him, numbing everything except the faint ache of being forgotten. His once‑sharp eyes dulled, reflecting nothing but the dim alley lights.
 
 In the end, Losel was not defeated by the city, nor by the innovation, nor by the people he accused.  
@@ -298,3 +310,5 @@ Others may still be searching.
 And so this coda stands not as a warning, nor as a moral, but as a final reflection:  
 that the greatest challenge of prosperity is not achieving it —  
 but ensuring that every mind is willing to step into its light.
+
+![A thriving city in daylight, symbolizing progress continuing peacefully after Losel’s fall.](IMG/Imagen.jpg)
