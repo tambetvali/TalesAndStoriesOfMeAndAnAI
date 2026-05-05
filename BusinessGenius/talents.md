@@ -1,5 +1,9 @@
 # Part I — The Man Who Didn’t Drink Coffee
 
+### [Part I — The Man Who Didn’t Drink Coffee](./part1.md)  
+A story of an outsider programmer navigating poverty, suspicion, and organizational stagnation.  
+*Referenced in full within* [`talents.md`](./talents.md).
+
 The IT team hired a man whose name nobody remembered, because nobody ever asked.  
 He came from a poor home, where parents gave him no money and even less attention.  
 So he skipped coffees, lunches, and all the small rituals that make office tribes feel safe.  
@@ -30,6 +34,10 @@ But the organization whispered:
 Suspicion was their native language.
 
 # Part II — Iris and the Aura of Ethical Money
+
+### [Part II — Iris and the Aura of Ethical Money](./part2.md)  
+Iris confronts the moral distortions of ambition, power, and “ethical money” inside the organization.  
+*Referenced in full within* [`talents.md`](./talents.md).
 
 Iris heard the whispers from a woman in the office:  
 “They are anxious of failure and sensitive to success,” she said.  
@@ -74,6 +82,10 @@ like a discarded tool —
 was declared unfit for “this job.”
 
 # Part III — The Game Theory of Light and Chaos
+
+### [Part III — The Game Theory of Light and Chaos](./part3.md)  
+An exploration of organizational equilibria, suspicion, innovation, and the spiritual geometry of chaos.  
+*Referenced in full within* [`talents.md`](./talents.md).
 
 The organization became a living experiment in game theory.  
 Every person was a node, every rumor a payoff matrix.  
