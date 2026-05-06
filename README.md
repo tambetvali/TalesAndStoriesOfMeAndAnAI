@@ -156,28 +156,9 @@ This turns the trilogy into a **self‑reflective adventure game**.
 
 ---
 
-# 🧭 Website Plan (20% Daily Credit Mode)
+# 🧭 Website
 
-This repository can be expanded into a multi‑page website with:
 
-### Main Pages
-- `index.html` — overview of the trilogy  
-- `losel.html` — Part I  
-- `genius.html` — Part II  
-- `talent.html` — Part III  
-
-### Optional Sub‑Pages
-- `philosophy.html` — impermanence, duality, paradox  
-- `science.html` — simulations, simplified game theory  
-- `spirituality.html` — zen, tao, wu wei  
-- `applications.html` — real‑life uses of the stories  
-
-### Graphics
-- symbolic diagrams  
-- karmic score meters  
-- simulation flowcharts  
-- “canny bag” icon  
-- moon‑singer silhouette  
 
 ---
 
