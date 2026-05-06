@@ -1,6 +1,14 @@
+### [website.md](./website.md) — *External Website (lovable.dev)*
+Contains the link to the external lovable.dev site that mirrors this project.  
+
 # Hidden Talent  
 ### A Study in Stillness, Pattern, and the Quiet Revolutions of Spirit  
 **The Hearthline Collective — Part I**
+
+### [part1.md](./part1.md) — *The Hearthline Collective Awakens*
+Introduces the Hidden Talent, the Hearthline Collective, and the early dynamics of projection and ritual.  
+Explores wu wei, Zen, Tao, warrior calm, and the first cracks in the system.  
+A story of stillness meeting fear.
 
 In the Hearthline Collective, evenings were the hour of shared study.  
 The room—neither hall nor classroom, neither home nor office—held a warm ambient glow, as if the walls themselves remembered every thought ever spoken inside them. People gathered there to exchange their daily proofs: fragments of logic, gestures of tradition, murmurs of philosophy. No one called it a ritual, yet it moved with the rhythm of one.
@@ -57,6 +65,11 @@ But the pattern had already begun to shift.
 # Hidden Talent  
 ### The Hearthline Collective — Part II  
 **The Ledger of Echoes**
+
+### [part2.md](./part2.md) — *Systems, Shadows, and the Mathematics of Human Worlds*
+A deeper analysis of group psychology, game theory, and social systems.  
+Shows how clarity destabilizes rigid structures and how elegant solutions are resisted.  
+Blends warrior‑gentleman archetypes with scientific insight.
 
 The Hearthline Collective kept a book—thin as a whisper, heavy as a verdict.  
 It was called **The Ledger of Echoes**, though no one remembered who named it.  
@@ -158,6 +171,11 @@ but through the air itself.
 # Hidden Talent  
 ### The Hearthline Collective — Part III  
 **The Door That Opens Itself**
+
+### [part3.md](./part3.md) — *Clarity, Collapse, and the Quiet Birth of a New Pattern*
+The final shift: the system meets its own reflection and dissolves its contradictions.  
+No conflict, no force — only clarity revealing what noise concealed.  
+A calm ending that opens into long‑term transformation.
 
 The shift began quietly.
 
@@ -266,3 +284,13 @@ And somewhere along the Far Path, the Hidden Talent walked with quiet steps, car
 
 *The story ends here.*  
 *The pattern does not.*
+
+### [evidence.md](./evidence.md) — *Historical, Psychological, and Mythological Parallels*
+Collects real-world patterns similar to the story:  
+misunderstood innovators, fairy‑tale motifs, projection loops, and group dynamics.  
+A practical grounding of the narrative in science and cultural memory.
+
+### [laespi.md](./laespi.md) — *The Laespi Ecosystem: Spireason, Laegna, and Developmental Tools*
+Explains how Spireason, Laegna, GitHub repos, and notaku studies form a unified developmental system.  
+A practical guide for psychological clarity, ethical action, and constitutional thinking.  
+Shows how to use the entire ecosystem in real life.
