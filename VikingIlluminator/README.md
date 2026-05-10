@@ -1,3 +1,18 @@
+# Tales Illuminated  
+### https://tales-illuminated.lovable.app
+
+A doorway before the document, a threshold chapter that stands alone yet contains the whole.  
+*Tales Illuminated* is the companion site — a living mirror of the work, a place where the same illumination unfolds in narrative, symbolic, and experiential form.  
+
+This chapter introduces the project as a story‑space:  
+a field where cognition, myth, and transformation weave together.  
+It prepares the reader for the fractal structure that follows —  
+a text that can be entered at any point, understood at any depth,  
+and explored like a landscape rather than read like a manual.
+
+It is the quiet breath before the architecture begins.
+
+
 # Preface  
 ### A Fractal Introduction to the VikingIlluminator Project
 
