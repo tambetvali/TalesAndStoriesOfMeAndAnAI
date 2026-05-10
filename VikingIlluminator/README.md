@@ -153,3 +153,26 @@ This mathematical model can be used to help even the mentally poor in complexity
 - How we reach systematic complexity of that kind, for example to experienced with IQ 100, using standard means and computer screen for example?
 - How this model teaches: with our natural instincts, our realms spiral up?
 - How it helps to understand whether we are fool, and do not understand the legality?
+
+Line.
+
+---------------------------------------------------
+
+CoPilot did not understand, what I essentially say:
+
+This needs to be abstract game theory, not collection of myths.
+
+It shows that game is neutral, applicable to various IQ levels and exists in general model of society.
+
+It shows that growth of entropy: mass tv etc. leads to new model, where wide social and material input is followed by processing in mind, simplification like conscious evolution, then reaction is fed back wide: especially true for well known and widely active, but for many
+
+Viking reaction is the American way:
+- Remove constraints
+- Make it fair traid
+- Explain it's extension to human consciousness, the same instinct and idea, and this makes it legal: the same rules apply cyclically and we see how, it linearly blends - information complexity leads to resolve the same in experienced mental eye, which works like magic: mind displays social frames, accounts our intent, it's like a TV play, or either it's a device: areal TV with some input like microphone and AI. Intentionally, information complexity has grown: scientific models does the same with subtlety, it might be simpler - already processed -, but the amount of information shows generalized mass entropy growth on our mental screen: also on external devices.
+
+Mind maps: it aligns local signals with global neighbourhood, personal intent with it's qualities, and attracts real life large scale and long term events. Illumination is also: alchemical reaction through such people, often occurring on street for a moment in eyes, incognito as the person or her private or personal realms are not cognite, but creating a sharing wave of information: we can see our mental screens connect to "infinity", a visible long term and large scale like TV connected to how our nerves connect to reality, it's idea, and especially it's alchemy.
+
+In essence, alchemy is always the same: King Solomon. Entropy - complexity of raw data below art, culture, still mind and expressions - simplifies into mind map, a response where we have to attune our long-term will to long-term vision.
+
+This is not in respect to any specific qualities, such as supernatural powers: it's in respect of how any person would orient themselves in modern society, and reflect the sky in the realms: to verify, to qualify, to fairly attribute. This is a mental game.
