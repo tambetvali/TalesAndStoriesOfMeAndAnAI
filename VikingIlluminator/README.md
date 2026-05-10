@@ -65,7 +65,7 @@ They are **maps**.
 A single diagram captures the entire architecture.  
 It is intentionally minimal, strict, and self‑explanatory.
 
-\`\`\`\`mermaid
+```mermaid
 flowchart TD
     A[Cognitive Load] --> B{Threshold}
     C[Payoff Instability] --> B
@@ -77,7 +77,7 @@ flowchart TD
     H --> I[Ethical Equilibrium]
     I --> J[Social Resonance]
     J --> K[Future Evolution]
-\`\`\`\`
+```
 
 This is the **seed**.  
 Every chapter is a magnification of one of these nodes.
@@ -88,7 +88,7 @@ Every chapter is a magnification of one of these nodes.
 A second diagram shows the internal skeleton of the system.  
 It is not technical — it is a **symbolic anatomy**.
 
-\`\`\`\`mermaid
+```mermaid
 classDiagram
     class Illumination {
         +pressure
@@ -110,7 +110,7 @@ classDiagram
 
     Illumination --> Synchronicity : opens
     Synchronicity --> Stabilization : resolves
-\`\`\`\`
+```
 
 This is the **inner geometry** of illumination.
 
