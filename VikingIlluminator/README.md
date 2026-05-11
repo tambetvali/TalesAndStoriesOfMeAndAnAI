@@ -12,6 +12,21 @@ and explored like a landscape rather than read like a manual.
 
 It is the quiet breath before the architecture begins.
 
+### https://zen-stream-alchemy.lovable.app/
+
+A current flowing beside the code, a channel where structure softens into experience.  
+*Zen Stream Alchemy* is the companion site — a gentle interface for so‑called “dumb users,”  
+a place where the same simulations are presented as clear, guided interactions rather than raw mechanics.  
+
+This chapter reframes the project as a practice‑space:  
+a stream where simple games, illumination rules, and outcomes can be watched,  
+clicked through, and felt without needing to parse notebooks or proofs.  
+
+It prepares the visitor for playful exploration —  
+a way to see convergence, choices, and limits unfold as small, graspable moments,  
+and to approach the architecture of the Viking Illuminator  
+not as a technical manual, but as a series of approachable, living experiments.
+
 
 # Preface  
 ### A Fractal Introduction to the VikingIlluminator Project
